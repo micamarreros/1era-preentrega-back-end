@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "title": "arroz",
+    "description": "Este es un producto prueba",
+    "price": 300,
+    "thumbnail": "Sin imagen",
+    "code": "abc123",
+    "stock": 25
+  },
+  {
+    "id": 2,
+    "title": "azúcar",
+    "description": "Este es un producto prueba",
+    "price": 400,
+    "thumbnail": "Sin imagen",
+    "code": "abc124",
+    "stock": 25
+  },
+  {
+    "id": 3,
+    "title": "harina",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "abc125",
+    "stock": 25
+  },
+  {
+    "id": 4,
+    "title": "fideos",
+    "description": "Este es un producto prueba",
+    "price": 250,
+    "thumbnail": "Sin imagen",
+    "code": "abc126",
+    "stock": 25
+  },
+  {
+    "id": 5,
+    "title": "agua",
+    "description": "Este es un producto prueba",
+    "price": 425,
+    "thumbnail": "Sin imagen",
+    "code": "abc127",
+    "stock": 25
+  },
+  {
+    "id": 6,
+    "title": "gaseosa",
+    "description": "Este es un producto prueba",
+    "price": 500,
+    "thumbnail": "Sin imagen",
+    "code": "abc128",
+    "stock": 25
+  },
+  {
+    "id": 7,
+    "title": "chocolate",
+    "description": "Este es un producto prueba",
+    "price": 450,
+    "thumbnail": "Sin imagen",
+    "code": "abc129",
+    "stock": 25
+  },
+  {
+    "id": 8,
+    "title": "café",
+    "description": "Este es un producto prueba",
+    "price": 275,
+    "thumbnail": "Sin imagen",
+    "code": "abc130",
+    "stock": 25
+  },
+  {
+    "id": 9,
+    "title": "té",
+    "description": "Este es un producto prueba",
+    "price": 320,
+    "thumbnail": "Sin imagen",
+    "code": "abc131",
+    "stock": 25
+  },
+  {
+    "id": 10,
+    "title": "manteca",
+    "description": "Este es un producto prueba",
+    "price": 400,
+    "thumbnail": "Sin imagen",
+    "code": "abc132",
+    "stock": 25
+  },
+  {
+    "id": 11,
+    "title": "mermelada",
+    "description": "Este es un producto prueba",
+    "price": 375,
+    "thumbnail": "Sin imagen",
+    "code": "abc133",
+    "stock": 25
+  }
+]
